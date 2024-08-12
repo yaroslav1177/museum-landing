@@ -26,7 +26,6 @@ You can view the original design layout on Figma: [Museum Website Layout](https:
 
 - **HTML5** - Structured and semantic markup.
 - **SCSS** - Preprocessor for modular and maintainable CSS.
-- **JavaScript** - For interactivity and dynamic content.
 - **BEM** - Methodology for clear and maintainable CSS structure.
 - **Figma** - For design and layout inspiration.
 
